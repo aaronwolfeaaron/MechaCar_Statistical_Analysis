@@ -24,3 +24,6 @@ No, the current manufacturing data do not meet the given design specification, a
 ![](https://github.com/aaronwolfeaaron/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-03-21%20at%202.55.35%20PM.png)
 ![](https://github.com/aaronwolfeaaron/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-03-21%20at%202.55.45%20PM.png)
 ![](https://github.com/aaronwolfeaaron/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-03-21%20at%202.55.53%20PM.png)
+
+### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+The overall T-test results and the three lot T-tests (all shown above) do not present statistically significant findings. The only T-test finding that *may* show a statistical significance is that of Lot 3, although it is still technically within the commonly held threshold of 0.05 at 0.04147.
