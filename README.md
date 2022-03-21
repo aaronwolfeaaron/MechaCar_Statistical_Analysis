@@ -27,3 +27,15 @@ No, the current manufacturing data do not meet the given design specification, a
 
 ### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 The overall T-test results and the three lot T-tests (all shown above) do not present statistically significant findings. The only T-test finding that *may* show a statistical significance is that of Lot 3, although it is still technically within the commonly held threshold of 0.05 with a p-value at 0.04168.
+
+## Study Design: MechaCar vs Competition
+
+### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+### What metric or metrics are you going to test?
+
+### What is the null hypothesis or alternative hypothesis?
+
+### What statistical test would you use to test the hypothesis? And why?
+
+### What data is needed to run the statistical test?
