@@ -13,5 +13,7 @@ The slope of the linear model is not considered to be zero because the p=value i
 This linear model predicts MPG effectively with a relative degree of certainty. The R-squared value of 0.7149 suggests that this linear model is ~71% accurate.
 
 ## Summary Statistics on Suspension Coils
+![](https://github.com/aaronwolfeaaron/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-03-21%20at%202.43.28%20PM.png)
+![](https://github.com/aaronwolfeaaron/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-03-21%20at%202.22.05%20PM.png)
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
