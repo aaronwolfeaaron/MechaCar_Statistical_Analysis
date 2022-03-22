@@ -33,9 +33,13 @@ The overall T-test results and the three lot T-tests (all shown above) do not pr
 ### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 ### What metric or metrics are you going to test?
+For a further study of MechaCar's comparison to competitors, I am going to study the average lifetime maintenance cost.
 
 ### What is the null hypothesis or alternative hypothesis?
+My null hypothesis is that there will be a highly significant positive statistical difference in the lifetime maintenance cost of MechaCar.
 
 ### What statistical test would you use to test the hypothesis? And why?
+The statistical test I will use to test my hypothesis is a Two-sample T-test. I've selected this test because it compares the difference in two dichotomous samples to show whether there is a statistical difference. 
 
 ### What data is needed to run the statistical test?
+In order to run this test, I will need to gather a large sample of data from MechaCar, as well as from a competitor and aggregate the totals of average cost of maintenance over a multi-year period. To ensure only inclusion of accurate data, I will gather the data from the dealerships where cars are serviced and have longstanding records, rather than from independent service shops.
